@@ -15,3 +15,5 @@
 </ul>
 
 <img src="https://github.com/ggoleta/testing-context-react/blob/master/src/assets/img-github.png" width="800">
+<img src="https://github.com/ggoleta/testing-context-react/blob/master/src/assets/img-github-2.png" width="800">
+<img src="https://github.com/ggoleta/testing-context-react/blob/master/src/assets/img-github-3.png" width="800">
