@@ -14,4 +14,4 @@
   <li>axios</li>
 </ul>
 
-<img src=”src/assets/img-github.png”>
+<img src="https://github.com/ggoleta/testing-context-react/blob/master/src/assets/img-github.png" width="800">
