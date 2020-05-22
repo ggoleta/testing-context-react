@@ -1,5 +1,5 @@
 <h1>Testing Context - ReactJS</h1>
-<p>Testing hooks and Context ReactJs in a simple application - Just to practice.</p>
+<p>Testing hooks and Context ReactJs in a simple application (loading data from Github API) - Just to practice.</p>
 
 <h2>Hooks</h2>
 <ul>
