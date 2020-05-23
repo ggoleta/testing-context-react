@@ -3,6 +3,7 @@ import GithubContext from '../../context/github/githubContext'
 import User from '../User'
 
 import { Container } from './styles'
+import Loading from '../Loading'
 
 const Users = () => {
   const githubContext = useContext(GithubContext);
@@ -11,6 +12,8 @@ const Users = () => {
     githubContext.getUsers();
     //eslint-disable-next-line
   },[])
+
+  if(githubContext.loading) return <Loading />
 
   return (
     
